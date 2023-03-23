@@ -9,7 +9,7 @@
 <br>
 
 <details>
-    <summary><b>✨My skills:</b></summary><br/>
+    <summary><b>✨My skills✨</b></summary><br/>
   <b>Back-end: </b> Java 8 <br>
   <b>Front-end: </b> Javascript ES6, HTML5, CSS3 <br>
   <b>Database: </b> MYSQL <br>
