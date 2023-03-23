@@ -10,23 +10,31 @@
 
 <details>
     <summary><b>✨My skills✨</b></summary><br/>
-  <b>Back-end: </b> Java 8 <br>
+  <b>Back-end: </b> Java 8  <br>
   <b>Front-end: </b> Javascript ES6, HTML5, CSS3 <br>
   <b>Database: </b> MYSQL <br>
   <b>Frameworks: </b> Bootstrap 5+, Spring, Spring Boot <br>
   <b>Work in progress: </b> Tailwind CSS, Angular 4+ <br>
   <b>Others: </b> GIT, GitHub, Photoshop, Figma, Windows <br>
-</details>
-
-
-
-
-
-
-
-
-
-
+  <br>
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+ </details>
+ 
+ ## Contact me:
+ 
+ <a href="mailto:adrian.bucur94@proton.me?subject=Hello&body=Hi Adrian, ">
+                  
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+                </a>
+ 
 
 
 
