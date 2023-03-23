@@ -1,17 +1,19 @@
 # Welcome! :mouse:
 
-## My name is Adrian, 
-Since I was a child, I've been passionate about technology, computers, and video games. I've decided to turn my hobbies into a career, aiming to become a full stack developer. I enjoy exploring new technologies and experimenting with code. I'm eager to embark on this journey, working hard and dedicating myself to achieving my goals. 
+My name is Adrian, since I was a child, I've been passionate about technology, computers, and video games. I've decided to turn my hobbies into a career, aiming to become a full stack developer. I enjoy exploring new technologies and experimenting with code. I'm eager to embark on this journey, working hard and dedicating myself to achieving my goals. 
 
 ### My skills:
 
--Java 8
--Javascript ES6
--HTML5
--CSS3
--MYSQL
--Bootstrap
--Spring
+* Java 8
+* Javascript ES6
+* HTML5
+* CSS3
+* MYSQL
+* Bootstrap 5+
+* Spring
+* Tailwind CSS **_WIP_**
+* Angular 4+ **_WIP_**
+
 
 
 <!--
