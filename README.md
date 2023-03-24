@@ -14,7 +14,7 @@
   <b>Front-end: </b> Javascript ES6, HTML5, CSS3 <br>
   <b>Database: </b> MYSQL <br>
   <b>Frameworks: </b> Bootstrap 5+, Spring, Spring Boot <br>
-  <b>Work in progress: </b> Tailwind CSS, Angular 4+ <br>
+  <b>Work in progress: </b> Tailwind CSS, Angular 4+, Typescript <br>
   <b>Others: </b> GIT, GitHub, Photoshop, Figma, Windows <br>
   <br>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
